@@ -1,4 +1,4 @@
-#Image Optimizer
+##Image Optimizer
 A simple web application to upload, convert, and optimize images to WebP format and download them as a ZIP archive. Built with PHP and Bootstrap 5.
 
 Features
