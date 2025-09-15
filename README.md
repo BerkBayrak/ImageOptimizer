@@ -30,7 +30,9 @@ To run this project on your local XAMPP setup:
      ```
      C:\xampp\htdocs\your-project-folder\downloads
      ```  
-   - Windows usually allows this by default, but if needed, right-click → Properties → Security → Give write permissions.  
+   - Windows usually allows this by default, but if needed, right-click → Properties → Security → Give write permissions.
+   - You should create `downloads` and `uploads` folders in the same directory as `index.php`.
+
 
 ## Required PHP Extensions
 
